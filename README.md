@@ -25,7 +25,7 @@ Dataset : https://www.kaggle.com/datasets/nathaniellybrand/chicago-crime-dataset
 
 ## 📁 Project Structure
 
-- `notebooks/` — Jupyter Notebooks
+- `notebooks/` — Google Colab
 - `src/` — Modular code (preprocessing, training, evaluation)
 - `models/` — Trained `.h5` model files
 - `results/` — Output plots and metrics
