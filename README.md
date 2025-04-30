@@ -1,7 +1,7 @@
 # 🧠 Crime Forecasting with Deep Learning (LSTM & CNN-LSTM)
 
 This repository contains the full implementation and evaluation code for our research paper:  
-**"Leveraging Artificial Intelligence for Enhanced Crime Detection and Prevention"** (2024).
+**"Spatio-Temporal Crime Prediction Using Deep Learning-A CNN-LSTM based approach"** (2024).
 
 ## 📌 Overview
 
